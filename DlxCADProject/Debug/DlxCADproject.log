@@ -1,0 +1,36 @@
+﻿  Edge.cpp
+  EularOperation.cpp
+C:\Users\28259\source\repos\DlxCADproject\EularOperation.cpp(218,34): warning C4101: “f2lp_end”: 未引用的局部变量
+  Face.cpp
+  HalfEdge.cpp
+  Loop.cpp
+  main.cpp
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(83,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(107,2): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(133,2): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(151,2): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(168,2): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(186,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(186,44): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(187,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(187,44): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(188,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(188,44): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(189,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(189,44): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(201,24): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\28259\source\repos\DlxCADproject\Examples.h(221,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\28259\source\repos\DlxCADproject\main.cpp(565,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\28259\source\repos\DlxCADproject\main.cpp(566,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\28259\source\repos\DlxCADproject\main.cpp(596,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\28259\source\repos\DlxCADproject\main.cpp(597,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\28259\source\repos\DlxCADproject\main.cpp(602,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Soild.cpp
+  Sweep.cpp
+C:\Users\28259\source\repos\DlxCADproject\Sweep.cpp(24,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\28259\source\repos\DlxCADproject\Sweep.cpp(56,33): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\28259\source\repos\DlxCADproject\Sweep.cpp(64,23): warning C4018: “<”: 有符号/无符号不匹配
+  Vertex.cpp
+  正在生成代码...
+C:\Users\28259\source\repos\DlxCADproject\main.cpp(233): warning C4715: “getPrimitiveType”: 不是所有的控件路径都返回值
+  DlxCADproject.vcxproj -> C:\Users\28259\source\repos\DlxCADproject\Debug\DlxCADproject.exe
