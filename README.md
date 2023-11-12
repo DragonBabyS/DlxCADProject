@@ -12,6 +12,6 @@
 
 ## 3.两个案例的示例
 （1）使用欧拉操作和扫掠操作构造的带双通孔长方体<br /><br /><br />
-![avatar](https://github.com/DragonBabyS/DlxCADProject/blob/main/DlxCADproject/exp1.png) <br />
+![avatar](https://github.com/DragonBabyS/DlxCADProject/blob/main/DlxCADProject/exp1.png) <br />
 （2）使用欧拉操作和扫掠操作构造的带多孔和本人名字缩写的复杂实体<br /><br /><br />
-![avatar](https://github.com/DragonBabyS/DlxCADProject/blob/main/DlxCADproject/exp2.png)  <br />
+![avatar](https://github.com/DragonBabyS/DlxCADProject/blob/main/DlxCADProject/exp2.png)  <br />
